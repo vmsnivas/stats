@@ -1,0 +1,21 @@
+- [ ] Amazon Web Services
+	- [ ] 01. Beginner
+		- [x] 01. AWS Concepts
+		- [ ] 02. AWS Essentials
+		- [ ] 03. Serverless Concepts
+	- [ ] 02. Intermediate
+		- [ ] 01. AWS Certified Developer Associate
+		- [ ] 02. AWS Certified SysOps Admin Associate
+		- [ ] 03. AWS Certified Solutions Architect Associate
+		- [ ] 04. Active Directory and AWS
+		- [ ] 05. Ansible and AWS
+		- [ ] 06. Lambda Deep Dive
+		- [ ] 07. Using EC2 Container Service
+		- [ ] 08. Docker and Elastic BeanStack
+		- [ ] 09. Manage and Deploy Code with AWS Developer Tools
+	- [ ] 03. Advanced
+		- [ ] 01. Hybrid AWS Technologies
+		- [ ] 02. AWS Certified DevOps Engineer Professional
+		- [ ] 03. AWS Certified Solutions Architect Professional
+		- [ ] 04. Deploying MariaDB or MySQL on VPC-EC2 from scratch with Replication
+		- [ ] 05. Advanced AWS Security
