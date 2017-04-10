@@ -1,0 +1,5 @@
+- [x] 01. Introduction and Installation
+- [x] 02. VHosts and Directives
+- [x] 03. Logging
+- [ ] 04. Security
+- [ ] 05. LEMP Stack
