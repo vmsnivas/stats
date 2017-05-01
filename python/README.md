@@ -1,5 +1,5 @@
 - [ ] Python 2.7 (Beginner)
-	- [ ] 01. Intro
+	- [x] 01. Intro
 	- [ ] 02. Python Basics
 	- [ ] 03. Python 201
 	- [ ] 04. Python 301
