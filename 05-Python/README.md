@@ -1,7 +1,7 @@
 - [x] Python LC
 - [ ] Python 2.7 (Beginner)
 	- [x] 01. Intro
-	- [ ] 02. Python Basics
+	- [x] 02. Python Basics
 	- [ ] 03. Python 201
 	- [ ] 04. Python 301
 - [ ] Python 3.0 (Intermediate)
