@@ -1,8 +1,8 @@
 # PS - AWS Fundamentals for System Admins
 - [x] Getting Started
 - [x] Intro to AWS
-- [ ] Understanding AWS Global Infrastructure
-- [ ] Understanding AWS Security Measures
+- [x] Understanding AWS Global Infrastructure
+- [x] Understanding AWS Security Measures
 - [ ] AWS Free Tier
 - [ ] Working with AWS Storage: Ephermal and S3
 - [ ] Working with AWS Storage: EBS and Glacier
