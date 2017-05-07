@@ -1,5 +1,5 @@
 # PS - AWS Fundamentals for System Admins
-- [ ] Getting Started
+- [x] Getting Started
 - [ ] Intro to AWS
 - [ ] Understanding AWS Global Infrastructure
 - [ ] Understanding AWS Security Measures
