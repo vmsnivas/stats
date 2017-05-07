@@ -4,8 +4,8 @@
 - [x] Understanding AWS Global Infrastructure
 - [x] Understanding AWS Security Measures
 - [x] AWS Free Tier
-- [ ] Working with AWS Storage: Ephermal and S3
-- [ ] Working with AWS Storage: EBS and Glacier
+- [x] Working with AWS Storage: Ephermal and S3
+- [x] Working with AWS Storage: EBS and Glacier
 - [ ] AWS Compute Options
 - [ ] Understanding EC2 Pricing
 - [ ] Understanding AWS Networking, CloudWatch and AutoScaling
