@@ -1,0 +1,14 @@
+# PS - AWS Fundamentals for System Admins
+- [ ] Getting Started
+- [ ] Intro to AWS
+- [ ] Understanding AWS Global Infrastructure
+- [ ] Understanding AWS Security Measures
+- [ ] AWS Free Tier
+- [ ] Working with AWS Storage: Ephermal and S3
+- [ ] Working with AWS Storage: EBS and Glacier
+- [ ] AWS Compute Options
+- [ ] Understanding EC2 Pricing
+- [ ] Understanding AWS Networking, CloudWatch and AutoScaling
+- [ ] Amazon Database Options, APIs and Lambda
+- [ ] Amazon Simple Services
+- [ ] CloudFront, CloudFormation, ElasticBeanStack and CloudTrail
