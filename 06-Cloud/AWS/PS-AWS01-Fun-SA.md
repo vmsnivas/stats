@@ -7,7 +7,7 @@
 - [x] Working with AWS Storage: Ephermal and S3
 - [x] Working with AWS Storage: EBS and Glacier
 - [x] AWS Compute Options
-- [ ] Understanding EC2 Pricing
+- [x] Understanding EC2 Pricing
 - [ ] Understanding AWS Networking, CloudWatch and AutoScaling
 - [ ] Amazon Database Options, APIs and Lambda
 - [ ] Amazon Simple Services
