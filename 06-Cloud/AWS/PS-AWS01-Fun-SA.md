@@ -6,7 +6,7 @@
 - [x] AWS Free Tier
 - [x] Working with AWS Storage: Ephermal and S3
 - [x] Working with AWS Storage: EBS and Glacier
-- [ ] AWS Compute Options
+- [x] AWS Compute Options
 - [ ] Understanding EC2 Pricing
 - [ ] Understanding AWS Networking, CloudWatch and AutoScaling
 - [ ] Amazon Database Options, APIs and Lambda
