@@ -1,7 +1,7 @@
 # AWS Certified SysOps Administrator - Associate
 
-- [ ] Course Overview
-- [ ] Getting Started
+- [x] Course Overview
+- [x] Getting Started
 - [ ] Understanding Virtual Networking on AWS
 - [ ] In-Depth VPC Configuration
 - [ ] Working with Security Groups and NACLs
