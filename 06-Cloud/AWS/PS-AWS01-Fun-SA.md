@@ -10,5 +10,5 @@
 - [x] Understanding EC2 Pricing
 - [x] Understanding AWS Networking, CloudWatch and AutoScaling
 - [x] Amazon Database Options, APIs and Lambda
-- [ ] Amazon Simple Services
+- [x] Amazon Simple Services
 - [ ] CloudFront, CloudFormation, ElasticBeanStack and CloudTrail
