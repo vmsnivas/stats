@@ -8,7 +8,7 @@
 - [x] Working with AWS Storage: EBS and Glacier
 - [x] AWS Compute Options
 - [x] Understanding EC2 Pricing
-- [ ] Understanding AWS Networking, CloudWatch and AutoScaling
+- [x] Understanding AWS Networking, CloudWatch and AutoScaling
 - [ ] Amazon Database Options, APIs and Lambda
 - [ ] Amazon Simple Services
 - [ ] CloudFront, CloudFormation, ElasticBeanStack and CloudTrail
