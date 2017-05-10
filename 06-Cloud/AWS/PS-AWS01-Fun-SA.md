@@ -11,4 +11,4 @@
 - [x] Understanding AWS Networking, CloudWatch and AutoScaling
 - [x] Amazon Database Options, APIs and Lambda
 - [x] Amazon Simple Services
-- [ ] CloudFront, CloudFormation, ElasticBeanStack and CloudTrail
+- [x] CloudFront, CloudFormation, ElasticBeanStack and CloudTrail
