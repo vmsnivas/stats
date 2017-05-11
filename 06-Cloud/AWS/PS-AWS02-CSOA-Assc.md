@@ -2,7 +2,7 @@
 
 - [x] Course Overview
 - [x] Getting Started
-- [ ] Understanding Virtual Networking on AWS
+- [x] Understanding Virtual Networking on AWS
 - [ ] In-Depth VPC Configuration
 - [ ] Working with Security Groups and NACLs
 - [ ] Understanding and Configuring VPC Access
