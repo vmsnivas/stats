@@ -3,7 +3,7 @@
 - [x] Course Overview
 - [x] Getting Started
 - [x] Understanding Virtual Networking on AWS
-- [ ] In-Depth VPC Configuration
+- [x] In-Depth VPC Configuration
 - [ ] Working with Security Groups and NACLs
 - [ ] Understanding and Configuring VPC Access
 - [ ] EC2 Instance Types
