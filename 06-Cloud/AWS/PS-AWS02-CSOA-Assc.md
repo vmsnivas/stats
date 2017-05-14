@@ -4,7 +4,7 @@
 - [x] Getting Started
 - [x] Understanding Virtual Networking on AWS
 - [x] In-Depth VPC Configuration
-- [ ] Working with Security Groups and NACLs
+- [x] Working with Security Groups and NACLs
 - [ ] Understanding and Configuring VPC Access
 - [ ] EC2 Instance Types
 - [ ] Working with Elastic Block Store (EBS)
