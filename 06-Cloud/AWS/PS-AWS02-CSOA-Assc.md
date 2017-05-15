@@ -9,7 +9,7 @@
 - [x] EC2 Instance Types
 - [x] Working with Elastic Block Store (EBS)
 - [x] EBS Snapshot and Replication
-- [ ] Working with Amazon S3
+- [x] Working with Amazon S3
 - [ ] Amazon S3 Website Hosting
 - [ ] Configuring Elastic Load Balancer (ELB)
 - [ ] Configuring Auto Scaling
