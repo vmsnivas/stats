@@ -6,7 +6,7 @@
 - [x] In-Depth VPC Configuration
 - [x] Working with Security Groups and NACLs
 - [x] Understanding and Configuring VPC Access
-- [ ] EC2 Instance Types
+- [x] EC2 Instance Types
 - [ ] Working with Elastic Block Store (EBS)
 - [ ] EBS Snapshot and Replication
 - [ ] Working with Amazon S3
