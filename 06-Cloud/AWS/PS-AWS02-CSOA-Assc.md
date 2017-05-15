@@ -8,7 +8,7 @@
 - [x] Understanding and Configuring VPC Access
 - [x] EC2 Instance Types
 - [x] Working with Elastic Block Store (EBS)
-- [ ] EBS Snapshot and Replication
+- [x] EBS Snapshot and Replication
 - [ ] Working with Amazon S3
 - [ ] Amazon S3 Website Hosting
 - [ ] Configuring Elastic Load Balancer (ELB)
