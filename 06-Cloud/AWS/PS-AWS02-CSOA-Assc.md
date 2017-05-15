@@ -7,7 +7,7 @@
 - [x] Working with Security Groups and NACLs
 - [x] Understanding and Configuring VPC Access
 - [x] EC2 Instance Types
-- [ ] Working with Elastic Block Store (EBS)
+- [x] Working with Elastic Block Store (EBS)
 - [ ] EBS Snapshot and Replication
 - [ ] Working with Amazon S3
 - [ ] Amazon S3 Website Hosting
