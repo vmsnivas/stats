@@ -10,8 +10,8 @@
 - [x] Working with Elastic Block Store (EBS)
 - [x] EBS Snapshot and Replication
 - [x] Working with Amazon S3
-- [ ] Amazon S3 Website Hosting
-- [ ] Configuring Elastic Load Balancer (ELB)
+- [x] Amazon S3 Website Hosting
+- [x] Configuring Elastic Load Balancer (ELB)
 - [ ] Configuring Auto Scaling
 - [ ] Configuring Route 53
 - [ ] Working with Identity and Access Management (IAM)
