@@ -12,7 +12,7 @@
 - [x] Working with Amazon S3
 - [x] Amazon S3 Website Hosting
 - [x] Configuring Elastic Load Balancer (ELB)
-- [ ] Configuring Auto Scaling
+- [x] Configuring Auto Scaling
 - [ ] Configuring Route 53
 - [ ] Working with Identity and Access Management (IAM)
 - [ ] Monitoring with Amazon CloudWatch and Trusted Advisor
