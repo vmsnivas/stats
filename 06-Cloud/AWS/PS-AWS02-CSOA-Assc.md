@@ -1,20 +1,20 @@
 # AWS Certified SysOps Administrator - Associate
 
-- [x] Course Overview
-- [x] Getting Started
-- [x] Understanding Virtual Networking on AWS
-- [x] In-Depth VPC Configuration
-- [x] Working with Security Groups and NACLs
-- [x] Understanding and Configuring VPC Access
-- [x] EC2 Instance Types
-- [x] Working with Elastic Block Store (EBS)
-- [x] EBS Snapshot and Replication
-- [x] Working with Amazon S3
-- [x] Amazon S3 Website Hosting
-- [x] Configuring Elastic Load Balancer (ELB)
-- [x] Configuring Auto Scaling
-- [ ] Configuring Route 53
-- [ ] Working with Identity and Access Management (IAM)
-- [ ] Monitoring with Amazon CloudWatch and Trusted Advisor
-- [ ] RDS HA and Load Sharing
-- [ ] Understanding Backup Options
+- [x] 00. Course Overview
+- [x] 01. Getting Started
+- [x] 02. Understanding Virtual Networking on AWS
+- [x] 03. In-Depth VPC Configuration
+- [x] 04. Working with Security Groups and NACLs
+- [x] 05. Understanding and Configuring VPC Access
+- [x] 06. EC2 Instance Types
+- [x] 07. Working with Elastic Block Store (EBS)
+- [x] 08. EBS Snapshot and Replication
+- [x] 09. Working with Amazon S3
+- [x] 10. Amazon S3 Website Hosting
+- [x] 11. Configuring Elastic Load Balancer (ELB)
+- [x] 12. Configuring Auto Scaling
+- [ ] 13. Configuring Route 53
+- [ ] 14. Working with Identity and Access Management (IAM)
+- [ ] 15. Monitoring with Amazon CloudWatch and Trusted Advisor
+- [ ] 16. RDS HA and Load Sharing
+- [ ] 17. Understanding Backup Options
