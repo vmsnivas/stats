@@ -21,3 +21,11 @@
 - [ ] Jenkins
 	- [x] JenkinsLA-1
 	- [ ] JenkinsLA-2
+
+# Planning Roadmap
+
+```flow
+st=>start: DevOps Start
+op=>operation: 1. AWS-Fundamentals
+op=>operation: 2. AWS SysOps Assc.
+```
