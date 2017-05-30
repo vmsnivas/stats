@@ -1,0 +1,31 @@
+# My Stats
+- [x] Tomcat
+- [ ] Nginx
+- [ ] Regex
+- [ ] Perl
+- [ ] Python
+	- [x] PythonLC
+	- [x] PythonCE
+	- [ ] PythonLA-1
+	- [ ] PythonLA-2
+	- [ ] PythonORielly
+- [ ] Cloud
+	- [x] AWS-PS01-Fun-SA
+	- [ ] AWS-PS02-CSOA-Assc
+	- [ ] AWS-LA-1
+	- [ ] AWS-LA-2
+	- [ ] AWS-LA-3
+- [ ] Docker
+	- [x] DockerLA-1
+	- [ ] DockerLA-2
+- [ ] Jenkins
+	- [x] JenkinsLA-1
+	- [ ] JenkinsLA-2
+
+# Planning Roadmap
+
+```flow
+st=>start: DevOps Start
+op=>operation: 1. AWS-Fundamentals
+op=>operation: 2. AWS SysOps Assc.
+```
