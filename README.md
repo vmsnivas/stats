@@ -1,7 +1,6 @@
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
+~~~mermaid
+graph LR;
+	mark -->a[blob analysis];
+	input-->a;
+	a-->b[object track]
+~~~
