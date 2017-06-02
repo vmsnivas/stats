@@ -15,6 +15,6 @@
 - [x] 12. Configuring Auto Scaling
 - [x] 13. Configuring Route 53
 - [x] 14. Working with Identity and Access Management (IAM)
-- [ ] 15. Monitoring with Amazon CloudWatch and Trusted Advisor
+- [x] 15. Monitoring with Amazon CloudWatch and Trusted Advisor
 - [ ] 16. RDS HA and Load Sharing
 - [ ] 17. Understanding Backup Options
