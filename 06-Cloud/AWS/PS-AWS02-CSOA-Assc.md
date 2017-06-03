@@ -17,4 +17,4 @@
 - [x] 14. Working with Identity and Access Management (IAM)
 - [x] 15. Monitoring with Amazon CloudWatch and Trusted Advisor
 - [x] 16. RDS HA and Load Sharing
-- [ ] 17. Understanding Backup Options
+- [x] 17. Understanding Backup Options
