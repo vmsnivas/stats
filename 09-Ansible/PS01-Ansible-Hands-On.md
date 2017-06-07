@@ -1,6 +1,6 @@
 # Ansible Hands On
 
-- [ ] 01. Introduction
+- [x] 01. Introduction
 - [ ] 02. Architechture and Process Flow
 - [ ] 03. Creating Environment
 - [ ] 04. Ansible Inventory and Configuration
