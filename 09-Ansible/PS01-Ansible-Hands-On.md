@@ -4,6 +4,6 @@
 - [x] 02. Architechture and Process Flow
 - [x] 03. Creating Environment
 - [x] 04. Ansible Inventory and Configuration
-- [ ] 05. Ansible Modules
+- [x] 05. Ansible Modules
 - [ ] 06. Plays and Playbooks
 - [ ] 07. Roles
