@@ -5,5 +5,5 @@
 - [x] 03. Creating Environment
 - [x] 04. Ansible Inventory and Configuration
 - [x] 05. Ansible Modules
-- [ ] 06. Plays and Playbooks
+- [x] 06. Plays and Playbooks
 - [ ] 07. Roles
