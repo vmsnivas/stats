@@ -6,4 +6,4 @@
 - [x] 04. Ansible Inventory and Configuration
 - [x] 05. Ansible Modules
 - [x] 06. Plays and Playbooks
-- [ ] 07. Roles
+- [x] 07. Roles
