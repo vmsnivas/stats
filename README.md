@@ -22,7 +22,7 @@
 	- [x] JenkinsLA-1
 	- [ ] JenkinsLA-2
 - [ ] Ansible
-	- [ ] AnsiblePS_AHO-1
+	- [x] AnsiblePS_AHO-1
 	- [ ] Ansible-Docker-PS_CDUDA-2
 	- [ ] AnsibleLA-1
 	- [ ] AnsibleLA-2
