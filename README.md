@@ -11,7 +11,7 @@
 	- [ ] PythonORielly
 - [ ] Cloud
 	- [x] AWS-PS01-Fun-SA
-	- [ ] AWS-PS02-CSOA-Assc
+	- [x] AWS-PS02-CSOA-Assc
 	- [ ] AWS-LA-1
 	- [ ] AWS-LA-2
 	- [ ] AWS-LA-3
