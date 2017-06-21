@@ -7,4 +7,4 @@
 - [x] 05-Gathering-Facts
 - [x] 06-Variable-Substitution
 - [x] 07-Debug-Statement
-- [ ] 08-Notifications-and-Handlers
+- [x] 08-Notifications-and-Handlers
