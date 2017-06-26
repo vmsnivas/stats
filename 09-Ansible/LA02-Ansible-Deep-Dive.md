@@ -7,7 +7,15 @@
 	- [x] 04. Introduction to YAML
 	- [x] 05. YAML Examples
 	- [x] 06. Ansible Documentation and Modules
-- [ ] 02. Setup and Configuration
+- [x] 02. Setup and Configuration
+	- [x] 01. Test Environment Setup
+	- [x] 02. Download and Installation
+	- [x] 03. Ansible Configuration File
+	- [x] 04. Ansible Python Dependencies
+	- [x] 05. Host File
+	- [x] 06. Overriding Default Hosts File
+	- [x] 07. Overriding Default System Ansible-CFG file
+	- [x] 08. Overriding Default Roles Path
 - [ ] 03. Ansible Playbooks
 - [ ] 04. Ansible Modules
 - [ ] 05. Roles
