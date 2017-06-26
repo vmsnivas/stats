@@ -24,6 +24,6 @@
 - [ ] Ansible
 	- [x] AnsiblePS_AHO-1
 	- [ ] Ansible-Docker-PS_CDUDA-2
-	- [ ] AnsibleLA-1
+	- [x] AnsibleLA-1
 	- [ ] AnsibleLA-2
 	- [ ] AnsibleLA-3
