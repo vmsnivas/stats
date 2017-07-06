@@ -26,31 +26,31 @@
 	- [x] 07. Target Section
 	- [x] 08. Variable Section
 	- [x] 09. Task Section
-	- [ ] 10. Handler Section
-	- [ ] 11. 
-	- [ ] 12. 
-	- [ ] 13. 
-	- [ ] 14. 
-	- [ ] 15. 
-	- [ ] 16. 
-	- [ ] 17. 
-	- [ ] 18. 
-	- [ ] 19. 
-	- [ ] 20. 
-	- [ ] 21. 
-	- [ ] 22. 
-	- [ ] 23. 
-	- [ ] 24. 
-	- [ ] 25. 
-	- [ ] 26. 
-	- [ ] 27. 
-	- [ ] 28. 
-	- [ ] 29. 
-	- [ ] 30. 
-	- [ ] 31. 
-	- [ ] 32. 
-	- [ ] 33. 
-	- [ ] 34. 
+	- [x] 10. Handler Section
+	- [x] 11. Outlining your playbook
+	- [ ] 12. Create a playbook from outline
+	- [ ] 13. Optimizing your Playbook
+	- [ ] 14. Taking playbook for a Dry Run
+	- [ ] 15. Asynchronous Polling
+	- [ ] 16. Simple Variable Substitution
+	- [ ] 17. Lookups
+	- [ ] 18. Run Once
+	- [ ] 19. Local Actions
+	- [ ] 20. Loops
+	- [ ] 21. Conditionsla
+	- [ ] 22. Until
+	- [ ] 23. Notify
+	- [ ] 24. Vault
+	- [ ] 25. Prompt Interactive Playbook
+	- [ ] 26. Basic Include Statements
+	- [ ] 27. Tags
+	- [ ] 28. Basic Error Handling
+	- [ ] 29. Includes Breaking you Playbook into Discrete Plays
+	- [ ] 30. Starting at a Task or Stepping through all tasks
+	- [ ] 31. Passing Variables into Playbooks at command line
+	- [ ] 32. Using Jinja2 Template
+	- [ ] 33. Local Actions
+	- [ ] 34. DelegateTo
 - [ ] 04. Ansible Modules
 - [ ] 05. Roles
 - [ ] 06. Ansible Command Line Usage
