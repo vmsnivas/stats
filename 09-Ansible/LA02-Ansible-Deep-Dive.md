@@ -17,6 +17,40 @@
 	- [x] 07. Overriding Default System Ansible-CFG file
 	- [x] 08. Overriding Default Roles Path
 - [ ] 03. Ansible Playbooks
+	- [x] 01. Configure Ansible Account
+	- [x] 02. Ansible Command Line
+	- [x] 03. System Facts
+	- [x] 04. System Facts - Common Values for Playbooks
+	- [x] 05. Our First Playbook
+	- [x] 06. Variable Inclusion
+	- [x] 07. Target Section
+	- [x] 08. Variable Section
+	- [x] 09. Task Section
+	- [ ] 10. Handler Section
+	- [ ] 11. 
+	- [ ] 12. 
+	- [ ] 13. 
+	- [ ] 14. 
+	- [ ] 15. 
+	- [ ] 16. 
+	- [ ] 17. 
+	- [ ] 18. 
+	- [ ] 19. 
+	- [ ] 20. 
+	- [ ] 21. 
+	- [ ] 22. 
+	- [ ] 23. 
+	- [ ] 24. 
+	- [ ] 25. 
+	- [ ] 26. 
+	- [ ] 27. 
+	- [ ] 28. 
+	- [ ] 29. 
+	- [ ] 30. 
+	- [ ] 31. 
+	- [ ] 32. 
+	- [ ] 33. 
+	- [ ] 34. 
 - [ ] 04. Ansible Modules
 - [ ] 05. Roles
 - [ ] 06. Ansible Command Line Usage
