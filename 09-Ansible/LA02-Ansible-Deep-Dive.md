@@ -27,11 +27,11 @@
 	- [x] 08. Variable Section
 	- [x] 09. Task Section
 	- [x] 10. Handler Section
-	- [x] 11. Outlining your playbook 
-	- [ ] 12. Create a playbook from outline
-	- [ ] 13. Optimizing your Playbook
-	- [ ] 14. Taking playbook for a Dry Run
-	- [ ] 15. Asynchronous Polling
+	- [x] 11. Outlining your playbook
+	- [x] 12. Create a playbook from outline
+	- [x] 13. Optimizing your Playbook
+	- [x] 14. Taking playbook for a Dry Run
+	- [x] 15. Asynchronous Polling
 	- [ ] 16. Simple Variable Substitution
 	- [ ] 17. Lookups
 	- [ ] 18. Run Once
