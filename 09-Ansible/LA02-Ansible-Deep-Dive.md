@@ -36,10 +36,10 @@
 	- [x] 17. Lookups
 	- [x] 18. Run Once
 	- [x] 19. Local Actions
-	- [ ] 20. Loops
-	- [ ] 21. Conditionsla
-	- [ ] 22. Until
-	- [ ] 23. Notify
+	- [x] 20. Loops
+	- [x] 21. Conditionals
+	- [x] 22. Until
+	- [x] 23. Notify
 	- [ ] 24. Vault
 	- [ ] 25. Prompt Interactive Playbook
 	- [ ] 26. Basic Include Statements
