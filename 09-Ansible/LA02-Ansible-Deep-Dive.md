@@ -40,9 +40,9 @@
 	- [x] 21. Conditionals
 	- [x] 22. Until
 	- [x] 23. Notify
-	- [ ] 24. Vault
-	- [ ] 25. Prompt Interactive Playbook
-	- [ ] 26. Basic Include Statements
+	- [x] 24. Vault
+	- [x] 25. Prompt Interactive Playbook
+	- [x] 26. Basic Include Statements
 	- [ ] 27. Tags
 	- [ ] 28. Basic Error Handling
 	- [ ] 29. Includes Breaking you Playbook into Discrete Plays
