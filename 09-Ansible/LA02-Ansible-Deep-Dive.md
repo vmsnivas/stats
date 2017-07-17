@@ -32,10 +32,10 @@
 	- [x] 13. Optimizing your Playbook
 	- [x] 14. Taking playbook for a Dry Run
 	- [x] 15. Asynchronous Polling
-	- [ ] 16. Simple Variable Substitution
-	- [ ] 17. Lookups
-	- [ ] 18. Run Once
-	- [ ] 19. Local Actions
+	- [x] 16. Simple Variable Substitution
+	- [x] 17. Lookups
+	- [x] 18. Run Once
+	- [x] 19. Local Actions
 	- [ ] 20. Loops
 	- [ ] 21. Conditionsla
 	- [ ] 22. Until
