@@ -16,7 +16,7 @@
 	- [x] 06. Overriding Default Hosts File
 	- [x] 07. Overriding Default System Ansible-CFG file
 	- [x] 08. Overriding Default Roles Path
-- [ ] 03. Ansible Playbooks
+- [x] 03. Ansible Playbooks
 	- [x] 01. Configure Ansible Account
 	- [x] 02. Ansible Command Line
 	- [x] 03. System Facts
@@ -43,15 +43,57 @@
 	- [x] 24. Vault
 	- [x] 25. Prompt Interactive Playbook
 	- [x] 26. Basic Include Statements
-	- [ ] 27. Tags
-	- [ ] 28. Basic Error Handling
-	- [ ] 29. Includes Breaking you Playbook into Discrete Plays
-	- [ ] 30. Starting at a Task or Stepping through all tasks
-	- [ ] 31. Passing Variables into Playbooks at command line
-	- [ ] 32. Using Jinja2 Template
-	- [ ] 33. Local Actions
-	- [ ] 34. DelegateTo
+	- [x] 27. Tags
+	- [x] 28. Basic Error Handling
+	- [x] 29. Includes Breaking you Playbook into Discrete Plays
+	- [x] 30. Starting at a Task or Stepping through all tasks
+	- [x] 31. Passing Variables into Playbooks at command line
+	- [x] 32. Using Jinja2 Template
+	- [x] 33. Local Actions
+	- [x] 34. DelegateTo
 - [ ] 04. Ansible Modules
+	- [ ] 01. Setup
+	- [ ] 02. File
+	- [ ] 03. Pause
+	- [ ] 04. Wait-For
+	- [ ] 05. Yum
+	- [ ] 06. Apt
+	- [ ] 07. Service
+	- [ ] 08. Copy
+	- [ ] 09. Command
+	- [ ] 10. Cron
+	- [ ] 11. Debug
+	- [ ] 12. Fetch
+	- [ ] 13. User
+	- [ ] 14. AT
+	- [ ] 15. DNF
+	- [ ] 16. Apache2
+	- [ ] 17. SetFact
+	- [ ] 18. Stat
+	- [ ] 19. Script
+	- [ ] 20. Shell
+	- [ ] 21. SELinux
+	- [ ] 22. SEBoolean
+	- [ ] 23. Raw
+	- [ ] 24. Ping
+	- [ ] 25. Package
+	- [ ] 26. Unarchive
+	- [ ] 27. HTPasswd
+	- [ ] 28. GetURL
+	- [ ] 29. Group
+	- [ ] 30. Mail
+	- [ ] 31. Filesystem
+	- [ ] 32. Mount
+	- [ ] 33. Notify
+	- [ ] 34. AptRepo
+	- [ ] 35. AptKey
+	- [ ] 36. ACL
+	- [ ] 37. GIT
+	- [ ] 38. Creating Jinja2
+	- [ ] 39. Template
+	- [ ] 40. MySQL DB
+	- [ ] 41. MySQL User
+	- [ ] 42. Kernel Balcklist
 - [ ] 05. Roles
 - [ ] 06. Ansible Command Line Usage
 - [ ] 07. Use Cases
