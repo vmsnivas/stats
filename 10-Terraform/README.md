@@ -13,8 +13,8 @@
 	- [x] 10. Creating S3 Bucket
 	- [x] 11. Creating Ansible Playbook
 	- [x] 12. Creating Dev Instance
-	- [ ] 13. Creating ELB
-	- [ ] 14. Configuring ASG
+	- [x] 13. Creating ELB
+	- [x] 14. Configuring ASG
 	- [ ] 15. Creating Route53 Records
 	- [ ] 16. Deploying infrastructure with Terraform
 	- [ ] 17. Finalizing our Project for Production
