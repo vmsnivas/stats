@@ -9,6 +9,7 @@
 	- [ ] PythonLA-1
 	- [ ] PythonLA-2
 	- [ ] PythonORielly
+	- [ ] OCW-Intro
 - [ ] Cloud
 	- [x] AWS-PS01-Fun-SA
 	- [x] AWS-PS02-CSOA-Assc
