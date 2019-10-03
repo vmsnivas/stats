@@ -1,4 +1,10 @@
-- [x] 01. Docker QuickStart
-- [ ] 02. Docker Deep Dive
-- [ ] 03. Docker and Elastic BeanStack
-- [ ] 04. Microsoft Azure Container Service with Docker
+- [ ] Pluralsight
+	- [ ] Managing Containers with Docker
+		- [ ] 01. Docker Deep Dive
+		- [ ] 02. Managing Docker Images
+		- [ ] 03. Implementing a Self-hosted Docker Registry
+		- [ ] 04. Containerizing a Software Application with Docker
+		- [ ] 05. Securing the Docker Platform
+		- [ ] 06. Docker Networking
+		- [ ] 07. Monitoring Containerized Application Health with Docker
+	- [ ] Continuous Delivery Using Docker And Ansible
