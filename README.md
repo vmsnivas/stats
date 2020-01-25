@@ -4,4 +4,4 @@
 	- [ ] Hands-On Continuous Integration and Automation with Jenkins
 	- [ ] Jenkins for Professionals
 	- [ ] Master Jenkins Course for Developers and DevOps
-	- [ ] Practical Jenkinss
+	- [ ] Practical Jenkins
