@@ -1,6 +1,6 @@
 - [ ] Pluralsight
 	- [ ] Managing Containers with Docker
-		- [ ] 01. Docker Deep Dive
+		- [x] 01. Docker Deep Dive
 		- [ ] 02. Managing Docker Images
 		- [ ] 03. Implementing a Self-hosted Docker Registry
 		- [ ] 04. Containerizing a Software Application with Docker
