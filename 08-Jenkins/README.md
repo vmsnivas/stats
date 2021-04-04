@@ -1,2 +1,0 @@
-- [x] 01. Jenkins QuickStart
-- [ ] 02. Jenkins and Build Automation
