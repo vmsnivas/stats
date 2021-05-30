@@ -28,3 +28,13 @@
 			- [ ] Architecting for Performance Efficiency on AWS
 		- [ ] Implementing and Testing Blue-Green Deployments on AWS
 		- [ ] Implementing Amazon S3 Storage on AWS
+- [ ] Continuous Integration and Continuous Deployment / IAC
+	- [ ] Continuous Integration with Jenkins
+		- [x] Getting Started with Jenkins
+		- [x] Using and Managing Jenkins Plugins
+		- [ ] Using Declarative Jenkins Pipelines
+		- [ ] Building and Using a Multi-Node Jenkins Farm
+		- [ ] Running Jenkins in Docker
+		- [ ] Automating Jenkins with Groovy
+		- [ ] Building a Modern CI/CD Pipeline with Jenkins
+		- [ ] Using Jenknis X for Cloud-Native CI/CD
