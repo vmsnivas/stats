@@ -30,8 +30,8 @@
 		- [ ] Implementing Amazon S3 Storage on AWS
 - [ ] Continuous Integration and Continuous Deployment / IAC
 	- [ ] Continuous Integration with Jenkins
-		- [x] Getting Started with Jenkins
-		- [x] Using and Managing Jenkins Plugins
+		- [x] ~~Getting Started with Jenkins~~
+		- [x] ~~Using and Managing Jenkins Plugins~~
 		- [ ] Using Declarative Jenkins Pipelines
 		- [ ] Building and Using a Multi-Node Jenkins Farm
 		- [ ] Running Jenkins in Docker
