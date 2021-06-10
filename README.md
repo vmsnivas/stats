@@ -32,8 +32,8 @@
 	- [ ] Continuous Integration with Jenkins
 		- [x] ~~Getting Started with Jenkins~~
 		- [x] ~~Using and Managing Jenkins Plugins~~
-		- [ ] Using Declarative Jenkins Pipelines
-		- [ ] Building and Using a Multi-Node Jenkins Farm
+		- [x] ~~Using Declarative Jenkins Pipelines~~
+		- [x] ~~Building and Using a Multi-Node Jenkins Farm~~
 		- [ ] Running Jenkins in Docker
 		- [ ] Automating Jenkins with Groovy
 		- [ ] Building a Modern CI/CD Pipeline with Jenkins
