@@ -6,7 +6,7 @@
 		- [ ] Beginner’s Guide to Containers and Orchestration
 		- [ ] Essential Container Concepts
 		- [x] **~~Docker Quick Start~~**
-		- [x] ~~Kubernetes Quick Start~~
+		- [x] **~~Kubernetes Quick Start~~**
 		- [ ] Kubernetes Essentials
 		- [ ] Docker Certified Associate (DCA)
 		- [ ] Docker - Deep Dive
@@ -35,13 +35,13 @@
 			- [ ] Deploying to AWS using Terraform and Ansible
 			- [ ] Hands-On with Terraform on Azure
 		- [ ] AWS Architect
-			- [x] ~~AWS Certified Cloud Practitioner (CLF-C01)~~
+			- [x] **~~AWS Certified Cloud Practitioner (CLF-C01)~~**
 			- [ ] AWS Cost Optimization Deep Dive
 			- [ ] Introduction to AWS CloudFormation
 			- [ ] Introduction to Amazon RDS
 			- [ ] S3 Masterclass
 			- [ ] Mastering AWS Well-Architected Framework
-			- [x] ~~AWS Certified Solutions Architect - Associate (SAA-C03)~~
+			- [x] **~~AWS Certified Solutions Architect - Associate (SAA-C03)~~**
 			- [ ] Introduction to AppSync
 			- [ ] Introduction to Containers and Docker
 			- [ ] AWS Security Essentials
@@ -73,10 +73,10 @@
 		- [ ] Implementing Amazon S3 Storage on AWS
 - [ ] Continuous Integration and Continuous Deployment / IAC
 	- [ ] Continuous Integration with Jenkins
-		- [x] ~~Getting Started with Jenkins~~
-		- [x] ~~Using and Managing Jenkins Plugins~~
-		- [x] ~~Using Declarative Jenkins Pipelines~~
-		- [x] ~~Building and Using a Multi-Node Jenkins Farm~~
+		- [x] **~~Getting Started with Jenkins~~**
+		- [x] **~~Using and Managing Jenkins Plugins~~**
+		- [x] **~~Using Declarative Jenkins Pipelines~~**
+		- [x] **~~Building and Using a Multi-Node Jenkins Farm~~**
 		- [ ] Running Jenkins in Docker
 		- [ ] Automating Jenkins with Groovy
 		- [ ] Building a Modern CI/CD Pipeline with Jenkins
