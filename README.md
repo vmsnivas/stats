@@ -3,9 +3,21 @@
 	- [ ] Udemy
 		- [ ] Certified Kubernetes Administrator (CKA)
 	- [ ] ACG
-		- [ ] Certified Kubernetes Administrator (CKA)
-		- [ ] Kubernetes Deep Dive
+		- [ ] Beginner’s Guide to Containers and Orchestration
+		- [ ] Essential Container Concepts
+		- [x] ~~Docker Quick Start~~
+		- [x] ~~Kubernetes Quick Start~~
+		- [ ] Kubernetes Essentials
+		- [ ] Docker Certified Associate (DCA)
+		- [ ] Docker - Deep Dive
 		- [ ] Kubernetes the Hard Way
+		- [ ] Certified Kubernetes Administrator (CKA)
+		- [ ] Learn Docker by Doing
+		- [ ] Certified Kubernetes Application Developer (CKAD)
+		- [ ] Google Kubernetes Engine Deep DiveAdvanced Networking with Kubernetes on AWS
+		- [ ] Google Kubernetes Engine Deep Dive
+		- [ ] Monitoring Kubernetes With Prometheus
+
 	- [ ] PS
 		- [ ] Managing Containers with Docker
 			- [ ] 01. Docker Deep Dive
@@ -29,7 +41,7 @@
 			- [ ] Introduction to Amazon RDS
 			- [ ] S3 Masterclass
 			- [ ] Mastering AWS Well-Architected Framework
-			- [ ] AWS Certified Solutions Architect - Associate (SAA-C03)
+			- [x] ~~AWS Certified Solutions Architect - Associate (SAA-C03)~~
 			- [ ] Introduction to AppSync
 			- [ ] Introduction to Containers and Docker
 			- [ ] AWS Security Essentials
@@ -70,11 +82,14 @@
 		- [ ] Building a Modern CI/CD Pipeline with Jenkins
 		- [ ] Using Jenknis X for Cloud-Native CI/CD
 
+# Achieved in 2022
+- [x] AWS Certified Cloud Practitioner (CLF-C01)
+- [x] AWS Certified Solutions Architect - Associate (SAA-C03)
+- [x] Docker Quick Start
+- [x] Kubernetes Quick Start
+
 # Achieved in 2021
 - [x] Getting Started with Jenkins
 - [x] Using and Managing Jenkins Plugins
 - [x] Using Declarative Jenkins Pipelines
 - [x] Building and Using a Multi-Node Jenkins Farm
-
-# Achieved in 2022
-- [x] AWS Certified Cloud Practitioner (CLF-C01)
