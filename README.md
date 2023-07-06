@@ -5,7 +5,7 @@
 	- [ ] ACG
 		- [ ] Beginner’s Guide to Containers and Orchestration
 		- [ ] Essential Container Concepts
-		- [x] ~~Docker Quick Start~~
+		- [x] **~~Docker Quick Start~~**
 		- [x] ~~Kubernetes Quick Start~~
 		- [ ] Kubernetes Essentials
 		- [ ] Docker Certified Associate (DCA)
