@@ -14,7 +14,7 @@
 		- [ ] Certified Kubernetes Administrator (CKA)
 		- [ ] Learn Docker by Doing
 		- [ ] Certified Kubernetes Application Developer (CKAD)
-		- [ ] Google Kubernetes Engine Deep DiveAdvanced Networking with Kubernetes on AWS
+		- [ ] Advanced Networking with Kubernetes on AWS
 		- [ ] Google Kubernetes Engine Deep Dive
 		- [ ] Monitoring Kubernetes With Prometheus
 
