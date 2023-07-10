@@ -7,7 +7,7 @@
 		- [ ] Essential Container Concepts
 		- [x] **~~Docker Quick Start~~**
 		- [x] **~~Kubernetes Quick Start~~**
-		- [ ] Kubernetes Essentials
+		- [x] **~~Kubernetes Essentials~~**
 		- [ ] Docker Certified Associate (DCA)
 		- [ ] Docker - Deep Dive
 		- [ ] Kubernetes the Hard Way
@@ -87,6 +87,7 @@
 - [x] AWS Certified Solutions Architect - Associate (SAA-C03)
 - [x] Docker Quick Start
 - [x] Kubernetes Quick Start
+- [x] Kubernetes Essentials
 
 # Achieved in 2021
 - [x] Getting Started with Jenkins
