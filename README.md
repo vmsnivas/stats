@@ -3,12 +3,12 @@
 	- [ ] Udemy
 		- [ ] Certified Kubernetes Administrator (CKA)
 	- [ ] ACG
-		- [ ] Beginner’s Guide to Containers and Orchestration
+		- [x] **~~Beginner’s Guide to Containers and Orchestration~~**
 		- [ ] Essential Container Concepts
 		- [x] **~~Docker Quick Start~~**
 		- [x] **~~Kubernetes Quick Start~~**
 		- [x] **~~Kubernetes Essentials~~**
-		- [ ] Docker Certified Associate (DCA)
+		- [x] **~~Docker Certified Associate (DCA)~~**
 		- [ ] Docker - Deep Dive
 		- [ ] Kubernetes the Hard Way
 		- [ ] Certified Kubernetes Administrator (CKA)
@@ -74,9 +74,11 @@
 # Achieved in 2022
 - [x] AWS Certified Cloud Practitioner (CLF-C01)
 - [x] AWS Certified Solutions Architect - Associate (SAA-C03)
+- [x] Beginner’s Guide to Containers and Orchestration
 - [x] Docker Quick Start
 - [x] Kubernetes Quick Start
 - [x] Kubernetes Essentials
+- [x] Docker Certified Associate (DCA)
 
 # Achieved in 2021
 - [x] Getting Started with Jenkins
